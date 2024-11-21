@@ -72,6 +72,8 @@ plt.title("Customer Segments")
 
 ## Output:
 
+![image](https://github.com/user-attachments/assets/de3a9a42-3a88-4861-9b0c-06836154668a)
+
 ![Screenshot 2024-10-18 205024](https://github.com/user-attachments/assets/a2e6ee7e-23ee-4fe6-b9a7-02d6abbe4508)
 
 ![Screenshot 2024-10-18 205032](https://github.com/user-attachments/assets/5aff11f1-5151-4d38-899e-300966e50b91)
